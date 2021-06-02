@@ -59,6 +59,6 @@ HTML uses __tags__
 
 #### Heading Tags
 
-* There are six tags we can use for headings, `<h1> - <h6>`
+* There are six tags we can use for headings, `<h1>` - `<h6>`
 * The bigger the number, the smaller the heading
 * In your `index.html` file, and an `<h1>` that includes the text "Hello World" (don't forget your closing tag)
