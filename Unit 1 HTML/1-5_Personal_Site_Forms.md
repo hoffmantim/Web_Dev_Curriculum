@@ -47,6 +47,8 @@ The `<input>` also has a `type=` and a `name=` attribute:
 
 #### The Contact Me Form
 
+Open the `contact.html` file and add the HTML boilerplate.
+
 Your __Contact Me__ page should have an `<h1>` at the top that reads "Contact Me". Beneath that, you can include either a phone number or email in a `<p>` tag (if you include both, consider an unordered list instead).
 
 Under your contact info, create a `<form>`. Include a `<label>` and `<input>` for:
@@ -65,14 +67,20 @@ Create a `<label>` and `<input>` with the text "Subscribe to my newsletter?". Th
   <label for='email_list'>Subscribe to my newsletter?</label>
   <input type='checkbox' id='email_list' value=''>
 ```
+Last, create an `<input>` with the `type='submit'`. This will be rendered as a button.
 
-Open the `contact.html` file and add the HTML boilerplate.
+```
+  <input type='submit' id='submit_contact_form' value='submit'>
+```
+
+Add a `<br>` tag after each `<input>`, after the `<textarea>` and after the message label. This will add a line break and make your form easier to read and navigate.
+
+![Image][2]
 
 
 
 
 
 
-
-
-[1]:
+[1]: https://github.com/hoffmantim/Web_Dev_Curriculum/blob/master/Unit%201%20HTML/1-5_Forms.png?raw=true
+[2]: https://github.com/hoffmantim/Web_Dev_Curriculum/blob/master/Unit%201%20HTML/1-5_Contact_Form.png?raw=true
