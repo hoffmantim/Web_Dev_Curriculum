@@ -64,6 +64,6 @@ It's time to add some style to your personal portfolio site.
 How can you add the __same__ styling to your About Me and Contact pages? Are there any other elements you need to take into consideration when styling these pages?
 
 
-[1]: https://github.com/hoffmantim/Web_Dev_Curriculum/blob/master/Unit_2_CSS/CSS_ID_&_Class.png?raw=true
-[2]: https://github.com/hoffmantim/Web_Dev_Curriculum/blob/master/Unit_2_CSS/CSS_Class_Declaration.png?raw=true
-[3]: https://github.com/hoffmantim/Web_Dev_Curriculum/blob/master/Unit_2_CSS/CSS_ID_Declaration.png?raw=true
+[1]: https://github.com/hoffmantim/Web_Dev_Curriculum/blob/master/Unit_2_CSS/images/CSS_ID_&_Class.png?raw=true
+[2]: https://github.com/hoffmantim/Web_Dev_Curriculum/blob/master/Unit_2_CSS/images/CSS_Class_Declaration.png?raw=true
+[3]: https://github.com/hoffmantim/Web_Dev_Curriculum/blob/master/Unit_2_CSS/images/CSS_ID_Declaration.png?raw=true
