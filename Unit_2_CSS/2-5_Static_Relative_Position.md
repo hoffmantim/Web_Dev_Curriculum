@@ -29,11 +29,20 @@ Essentially, this means that your webpage has an x-axis, a y-axis, and a z-axis.
 
 We can use the CSS `position:` property to change the default layout behavior of elements. To learn about the various values you can use with `position:`, check out this [tutorial page](https://css-tricks.com/almanac/properties/p/position/).
 
-* Create a new folder or code sandbox called `css_challenge`.
-* Add an `index.html` file and a `style.css` file.
-* Add a `<link>` to the CSS file in your `<head>`.
-* In the `index.html` file, create three `<div>`:
+1. Create a new folder or code sandbox called `css_challenge`.
+2. Add an `index.html` file and a `style.css` file.
+3. Add a `<link>` to the CSS file in your `<head>`.
+4. In the `index.html` file, create three `<div>`:
     * The first should have a `class="red"`
     * The second should ahve a `class="yellow:`
     * The third should have a `class="blue"`
     * Use your `style.css` file to give each of the `<div>` a height and width of `60px` and a `background-color` corresponding to its class name.
+5. Save both files, and check your work in a browser window. It should look like this:
+
+<img src="https://github.com/hoffmantim/Web_Dev_Curriculum/blob/master/Unit_2_CSS/images/CSS_Position_Challenge_Before.png?raw=true" style="width:40%">
+
+
+Using __ONLY__ CSS and the position declaration, change the layout of your page to look like the image below. Do __NOT__ change the order of the `<div>` in your HTML file. You should only work in your CSS.
+
+<img src="https://github.com/hoffmantim/Web_Dev_Curriculum/blob/master/Unit_2_CSS/images/CSS_Position_Challenge_After.png?raw=true" style="width:60%">
+
