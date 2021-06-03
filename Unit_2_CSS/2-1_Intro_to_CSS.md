@@ -1,4 +1,4 @@
-# Unit 2.1: Intro to CSS
+# 2.1: Intro to CSS
 
 So far, we've used HTML to 
 
@@ -49,3 +49,8 @@ Probably the most common way to add CSS is with an external file. Use the `<link
 
 We'll use an external CSS file to add some style to our personal site.
 
+[1]: https://github.com/hoffmantim/Web_Dev_Curriculum/blob/master/Unit_2_CSS/CSS_Block.png?raw=true
+[2]: https://github.com/hoffmantim/Web_Dev_Curriculum/blob/master/Unit_2_CSS/CSS_Declaration.png?raw=true
+[3]: https://github.com/hoffmantim/Web_Dev_Curriculum/blob/master/Unit_2_CSS/CSS_Inline_Styling.png?raw=true
+[4]: https://github.com/hoffmantim/Web_Dev_Curriculum/blob/master/Unit_2_CSS/CSS_Internal_Styling.png?raw=true
+[5]: https://github.com/hoffmantim/Web_Dev_Curriculum/blob/master/Unit_2_CSS/CSS_External_Styling_Link.png?raw=true
