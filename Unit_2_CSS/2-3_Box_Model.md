@@ -78,4 +78,4 @@ Go to this [tutorial](https://internetingishard.com/html-and-css/css-box-model/#
 
 Use what you've learned here to add some more style to your webpage. Add at least one border to an element and change the padding and margin of something to make the spacing and visual interest of your page more appealing.
 
-[1]: 
+[1]: https://github.com/hoffmantim/Web_Dev_Curriculum/blob/master/Unit_2_CSS/images/CSS_Box_Model.png?raw=true
