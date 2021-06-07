@@ -13,7 +13,7 @@ First, below your __Skills__ section, add another dotted horizontal line.
 Next, add a `<div>` for a "Get in Touch" section and one for a footer (similar to our navbar at the top).
 
 <p align="center">
-    <img src="" width="85%">
+    <img src="https://github.com/hoffmantim/Web_Dev_Curriculum/blob/master/Unit_2_CSS/images/CSS_Footer.png?raw=true" width="85%">
 </p>
 
 ### Custom Button

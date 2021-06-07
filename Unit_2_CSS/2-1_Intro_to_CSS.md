@@ -27,7 +27,9 @@ Each declaration consists of a CSS __property__ and a value separated by a colon
 
 What will happen to our page if we add the following CSS block?
 
-![Image][2]
+<p align="center">
+    <img src="https://github.com/hoffmantim/Web_Dev_Curriculum/blob/master/Unit_2_CSS/images/CSS_Declaration.png?raw=true" width="60%">
+</p>
 
 ### Inline CSS
 
